@@ -1,6 +1,6 @@
 ### Hello there! I'm Nikita Esenin - aka UncleNoName 👋
 
-- 🥅 2024 Goals: Find a job in Analythics? else TBD
+- 🥅 2024 Goals: Find a job in Analythics, else TBD
 - ⚡ Fun Quote: I don't care how big the room is! I cast **FIREBALL**!
 
 ### Connect with me:
