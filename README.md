@@ -3,6 +3,10 @@
 - 🥅 2024 Goals: Find a job in Analythics, else TBD
 - ⚡ Fun Quote: I don't care how big the room is! I cast **FIREBALL**!
 
+ <div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2oyMXBrMDl3enpzN21oMnN5ZnRpdHA5ZGJkb2V1amdxcWVneGVndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif")"/>
+</div>
+
 ### Connect with me:
 [<img align="left" alt="UncleNoName | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"/>][VK]
 [<img align="left" alt="UncleNoName | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>][Telegram]
@@ -19,9 +23,12 @@
 <br />
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UncleNoName&show_icons=true&hide_border=true&theme=onedark"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UncleNoName&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UncleNoName&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UncleNoName&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UncleNoName&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UncleNoName&theme=2077&utcOffset=8)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unclenoname&hide_progress=trues&show_icons=true&theme=onedark)
 
 
 [VK]: https://vk.com/uncle_no_name
