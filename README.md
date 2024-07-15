@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=90&duration=5000&color=ffffff&lines=Hello+there!+👋;" />
+
 ### Hello there! I'm Nikita Esenin - aka UncleNoName 👋
 
 - 🥅 2024 Goals: Find a job in Analythics, else TBD
