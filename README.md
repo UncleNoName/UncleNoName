@@ -5,9 +5,10 @@
 - 🥅 2024 Goals: Find a job in Analythics, else TBD
 - ⚡ Fun Quote: I don't care how big the room is! I cast **FIREBALL**!
 
- <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDIwNnFlZWN3a2Q0MGU4NTB4MzRncGN5eTkwdHBjbm8zdHRlZXd4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Xov9qZ44Mq0qkCN9Q/giphy.gif")"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpsejNpd3BwNnh3dHl2YTE4NDdlYXBwN2E0NXRsYWE4ZXl4amlsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Xov9qZ44Mq0qkCN9Q/giphy.gif"/>
 </div>
+
 
 <h2 align="center"> ⚡ Connect with me! ⚡  </h2>
 <p align="center">
